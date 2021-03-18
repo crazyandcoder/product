@@ -1,0 +1,4 @@
+include ':lib-navcompiler'
+include ':lib-navannotation'
+include ':app'
+rootProject.name = "Bible-Android-Java"
